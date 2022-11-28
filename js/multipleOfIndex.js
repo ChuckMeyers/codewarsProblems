@@ -2,4 +2,4 @@
 
 // Solution 
 
-const multipleOfIndex = array => array.filter((num, ind) => num % ind === 1);
+const multipleOfIndex = array => array.filter((num, ind) => num % ind === 0);
